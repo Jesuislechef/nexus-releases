@@ -1,6 +1,7 @@
 # Nexus
 
-Tous tes jeux (Steam, Epic, Riot, Battle.net, Xbox…) et tes logiciels au même endroit.
+**Nexus, le launcher de tous tes launchers.**
+Steam, Epic, Riot, Battle.net, Xbox… tous tes jeux et tes logiciels au même endroit.
 
 ## Installer
 
